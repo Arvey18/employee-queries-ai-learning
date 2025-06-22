@@ -1,0 +1,31 @@
+{
+  "name": "employee-query-backend",
+  "version": "1.0.0",
+  "description": "Backend for employee query system using Node.js, Express, Sharepoint and GPT-4o",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [
+    "employee",
+    "documentation",
+    "query",
+    "api",
+    "gpt-4o"
+  ],
+  "author": "Arvey Jimenez",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "natural": "^8.1.0",
+    "node-fetch": "^3.3.2",
+    "pdf-parse": "^1.1.1",
+    "winston": "^3.17.0"
+  },
+  "devDependencies": {
+    "@types/pdf-parse": "^1.1.5"
+  }
+}

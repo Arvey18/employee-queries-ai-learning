@@ -1,0 +1,5 @@
+{
+  "employee_benefits": ["what benefits do I have", "list my benefits", "what are my benefits"],
+  "policies": ["why my workings ours like that", "what are the working hours", "what is the policy on working hours"],
+  "contactHR": ["how do I contact HR", "what is the HR contact information", "how can I reach HR"]
+}

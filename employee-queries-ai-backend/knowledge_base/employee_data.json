@@ -1,0 +1,40 @@
+{
+  "employees": [
+    {
+      "userId": "070426",
+      "name": "Arvey Jimenez",
+      "employeeType": "contractual",
+      "role": "Web Developer",
+      "department": "IT Engineering",
+      "benefits": ["Paid Time Off"],
+      "weeklyHours": 20
+    },
+    {
+      "userId": "12345",
+      "name": "John Doe",
+      "employeeType": "full-time",
+      "role": "Software Engineer",
+      "department": "Engineering",
+      "benefits": ["Health Insurance", "Retirement Plan", "Paid Time Off"],
+      "weeklyHours": 40
+    },
+    {
+      "userId": "67890",
+      "name": "Jane Smith",
+      "employeeType": "contractor",
+      "role": "Project Manager",
+      "department": "Operations",
+      "benefits": ["Limited Paid Time Off"],
+      "weeklyHours": 20
+    },
+    {
+      "userId": "54321",
+      "name": "Emily Johnson",
+      "employeeType": "part-time",
+      "role": "Customer Support",
+      "department": "Support",
+      "benefits": ["Flexible Hours"],
+      "weeklyHours": 20
+    }
+  ]
+}
